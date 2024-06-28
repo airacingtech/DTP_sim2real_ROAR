@@ -1,7 +1,8 @@
 [M.S. 2024 Thesis: Leveraging Zero-Shot Sim2Real Learning
 to Improve Autonomous Vehicle Perception](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-90.pdf) 
 
-# ...
+# Summary
+Leveraging the Deep Translation Prior (DTP) technique, this repository provides tools and scripts for converting simulation video data into photorealistic images, enhancing the realism of simulation datasets for perception pipeline training. The repository includes a comprehensive guide for processing simulation images, labeling them, and generating high-quality sim2real conversions.
 
 ## How to Do Sim2Real - A Guide
 So… you have a ton of simulation data, and want to make it look realistic. Well, look no further, since you’re in the right place. Welcome to a guide on sim2real conversion using the Deep Translation Prior paper. The process is outlined below:
