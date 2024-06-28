@@ -1,4 +1,4 @@
-[Leveraging Zero-Shot Sim2Real Learning
+[M.S. 2024 Thesis: Leveraging Zero-Shot Sim2Real Learning
 to Improve Autonomous Vehicle Perception](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-90.pdf) 
 
 # How to Do Sim2Real - A Guide
